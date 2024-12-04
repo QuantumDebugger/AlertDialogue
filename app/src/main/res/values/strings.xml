@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlertDialogue</string>
+    <string name="button">Alert</string>
+    <string name="Dialogue message">Click any option</string>
+
+</resources>
